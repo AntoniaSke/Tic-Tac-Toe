@@ -4,7 +4,7 @@ A simple Tic Tac Toe game built with React.
 
 ## Live Demo
 
-[View the project here](https://your-username.github.io/your-repository-name/)
+[View the project here](https://antoniaske.github.io/Tic-Tac-Toe/)
 
 ## Features
 
